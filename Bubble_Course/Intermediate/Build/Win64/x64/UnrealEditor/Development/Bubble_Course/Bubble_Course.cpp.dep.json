@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thomas\\documents\\game jam\\ggj 2025\\unreal project\\bubble_course\\source\\bubble_course\\bubble_course.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thomas\\documents\\game jam\\ggj 2025\\unreal project\\bubble_course\\intermediate\\build\\win64\\x64\\bubble_courseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\thomas\\documents\\game jam\\ggj 2025\\unreal project\\bubble_course\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bubble_course\\definitions.bubble_course.h",
+            "c:\\users\\thomas\\documents\\game jam\\ggj 2025\\unreal project\\bubble_course\\source\\bubble_course\\bubble_course.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

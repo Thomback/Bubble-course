@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Bubble_Course",
+			"Path": "..\\Source\\Bubble_Course.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Bubble_CourseEditor",
+			"Path": "..\\Source\\Bubble_CourseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

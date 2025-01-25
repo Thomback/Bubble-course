@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Bubble_Course.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Thomas\Documents\Game jam\GGJ 2025\Unreal Project\Bubble_Course\Intermediate\Build\Win64\x64\Bubble_CourseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\Thomas\Documents\Game jam\GGJ 2025\Unreal Project\Bubble_Course\Intermediate\Build\Win64\x64\UnrealEditor\Development\Bubble_Course\Bubble_Course.cpp.obj"
+"C:\Users\Thomas\Documents\Game jam\GGJ 2025\Unreal Project\Bubble_Course\Intermediate\Build\Win64\x64\UnrealEditor\Development\Bubble_Course\PerModuleInline.gen.cpp.obj"
+"C:\Users\Thomas\Documents\Game jam\GGJ 2025\Unreal Project\Bubble_Course\Intermediate\Build\Win64\x64\UnrealEditor\Development\Bubble_Course\Default.rc2.res"
+/OUT:"C:\Users\Thomas\Documents\Game jam\GGJ 2025\Unreal Project\Bubble_Course\Intermediate\Build\Win64\x64\UnrealEditor\Development\Bubble_Course\UnrealEditor-Bubble_Course.lib"
